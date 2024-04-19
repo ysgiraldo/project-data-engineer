@@ -1,0 +1,24 @@
+2024-03-23 11:55:46,791:INFO:Starting the application
+2024-03-23 11:55:46,911:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:55:46,911:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:55:46,916:INFO: * Restarting with stat
+2024-03-23 11:55:49,997:INFO:Starting the application
+2024-03-23 11:55:50,017:WARNING: * Debugger is active!
+2024-03-23 11:55:50,026:INFO: * Debugger PIN: 136-030-990
+2024-03-23 11:56:00,817:INFO:127.0.0.1 - - [23/Mar/2024 11:56:00] "GET / HTTP/1.1" 200 -
+2024-03-23 11:56:01,327:INFO:127.0.0.1 - - [23/Mar/2024 11:56:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 11:56:04,161:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:56:09,217:INFO:Prediction: 155849.9
+2024-03-23 11:56:09,221:INFO:127.0.0.1 - - [23/Mar/2024 11:56:09] "POST / HTTP/1.1" 200 -
+2024-03-23 11:56:14,080:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 2000.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:56:14,087:INFO:Prediction: 438640.73
+2024-03-23 11:56:14,095:INFO:127.0.0.1 - - [23/Mar/2024 11:56:14] "POST / HTTP/1.1" 200 -
+2024-03-23 11:56:21,939:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 1, 'condition': 1}
+2024-03-23 11:56:21,952:INFO:Prediction: 1291080.39
+2024-03-23 11:56:21,952:INFO:127.0.0.1 - - [23/Mar/2024 11:56:21] "POST / HTTP/1.1" 200 -
+2024-03-23 11:56:33,748:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 1, 'condition': 5}
+2024-03-23 11:56:33,758:INFO:Prediction: 1452483.4
+2024-03-23 11:56:33,758:INFO:127.0.0.1 - - [23/Mar/2024 11:56:33] "POST / HTTP/1.1" 200 -
+2024-03-23 11:57:15,209:INFO:Starting the application
+2024-03-23 11:57:15,833:INFO:Starting the application
